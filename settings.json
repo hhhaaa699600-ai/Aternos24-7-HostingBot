@@ -1,16 +1,16 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Mr_Cum",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "HHHAAA2.aternos.me",
+    "port": 17296,
+    "version": "1.21.11",
     "try-creative": false
-  },
+  },\"name\": \"AFK Bot\",
   "position": {
     "enabled": true,
     "x": 0,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm anuus's gay partner",
+        "I wanna shit on Anuuus so badd",
+        "Hi poopies"
       ]
     },
     "chat-log": true,
